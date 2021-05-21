@@ -1,0 +1,15 @@
+https://codesandbox.io/s/jsd0309-jquery-code-along-solution-vlk3k?file=/script.js
+
+
+C:\Users\mikti\Desktop\General Assembly\assignment-2-lesson-12-feedr
+
+Use this image array
+C:\Users\mikti\Desktop\General Assembly\git-lesson\11-advanced-apis-master\11-advanced-apis-master\starter-code
+
+General Assembly\Ex_Files_JQuery_EssT\Exercise Files\Ch_5
+sliding_finished
+
+
+Search for project which has input for:
+lat: position.coords.latitude,
+lon: position.coords.longitude,
